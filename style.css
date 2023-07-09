@@ -107,7 +107,7 @@ main{
     padding: 30px;
 }
 main .profile{
-    padding: 25px 70px;
+    padding: 25px 100px;
     display: flex;
     flex-direction:column;
     justify-content: center;
@@ -161,4 +161,7 @@ button:hover{
         .text{
             width: 27rem;
         }
+        main .profile{
+    padding: 25px 20px;
+}
     }
