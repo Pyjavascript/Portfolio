@@ -107,7 +107,7 @@ main{
     padding: 30px;
 }
 main .profile{
-    padding: 25px 100px;
+    padding: 25px 70px;
     display: flex;
     flex-direction:column;
     justify-content: center;
