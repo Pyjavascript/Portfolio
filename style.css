@@ -145,13 +145,18 @@ button:hover{
     background-color: #eee;
 }
 @media screen and (max-width: 991px) {
+    header{
+            background:yellow;
+    }
 }
     
     @media screen and (max-width: 767px) {
         .img-text{
             font-size:2rem;
         }
-    }
+        header{
+            background:red;
+        }
     
     @media screen and (max-width: 479px) {
 
@@ -161,11 +166,5 @@ button:hover{
         .text{
             width: 27rem;
         }
-        main .profile{
-            padding: 25px 20px;
-        }
-        header{
-            background:red;
-            height: 50vh;
-        }
+        
     }
