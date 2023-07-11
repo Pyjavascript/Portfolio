@@ -164,4 +164,8 @@ button:hover{
         main .profile{
             padding: 25px 20px;
         }
+        header{
+            background:red;
+            height: 50vh;
+        }
     }
